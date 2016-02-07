@@ -1,0 +1,19 @@
+{
+  "name": "react-exp",
+  "version": "1.0.0",
+  "description": "playing with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hihumm/react-exp.git"
+  },
+  "author": "Chaim Eisenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hihumm/react-exp/issues"
+  },
+  "homepage": "https://github.com/hihumm/react-exp"
+}
